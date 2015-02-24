@@ -1,3 +1,4 @@
 <?xml version="1.0"?>
-<project name="hello" branch="master">
+<project name="hello" branch="master" python_version="2">
+  <module name="4i.language.python.hello" required_branch="master"/>
 </project>
